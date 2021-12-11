@@ -16,7 +16,8 @@
         <h2>実装まわり</h2>
         <p>
           NuxtJSとSCSSでできています。特にフレームワークは使ってませんが，<br />
-          <span class="serif">ニューテゴミン</span>とか<span class="sans">ZEN丸ゴシック</span>とか<span class="fude">佑字</span>とか，<a href="https://fonts.google.com">GoogleFonts</a>は適宜使ってます。
+          <span class="serif">ニューテゴミン</span>とか<span class="sans">ZEN丸ゴシック</span>とか<span class="fude">佑字</span>とか，<a href="https://fonts.google.com">GoogleFonts</a>は適宜使ってます。<br />
+          あとデプロイ先にGitHub Pages，その自動化処理のためにGitHub Actionsを使ってます。
         </p>
       </div>
     </div>

@@ -1,6 +1,6 @@
 <template>
   <div>
-    <div v-if="$dayjs('2020-02-04').diff('2020-01-01')===0" class="MainModule">
+    <div v-if="$dayjs('2020-02-04').diff('2020-01-01')>=0" class="MainModule">
       <div>
         <span v-text="`あと`+-1*$dayjs().diff('2022-01-01', 'day')+'日で公開'" />
       </div>
