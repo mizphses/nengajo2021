@@ -18,3 +18,18 @@ body{
 .is-not-selectable {
   user-select: none;
 }
+
+.fadeIn{
+  animation: fadeIn 2s;
+}
+.fadeIn5s{
+  animation: fadeIn 5s;
+}
+@keyframes fadeIn {
+  from {
+    opacity: 0;
+  }
+  to {
+    opacity: 1;
+  }
+}
