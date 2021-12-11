@@ -14,7 +14,7 @@ export default {
       { hid: 'description', name: 'description', content: '2022年，尾川史典から新年のご挨拶です。' },
       { hid: 'og:site_name', property: 'og:site_name', content: '年賀状Online 2021>>2022' },
       { hid: 'og:type', property: 'og:type', content: 'website' },
-      { hid: 'og:url', property: 'og:url', content: 'https://2022nenga.natom.one' },
+      { hid: 'og:url', property: 'og:url', content: 'https://2022nenga.fumi.one' },
       { hid: 'og:title', property: 'og:title', content: '2022年，尾川史典から新年のご挨拶' },
       { hid: 'og:description', property: 'og:description', content: '2022年，尾川史典から新年のご挨拶です。' },
       { hid: 'og:image', property: 'og:image', content: 'https://imgur.com/CSX3iYK' },
