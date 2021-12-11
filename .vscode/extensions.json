@@ -1,0 +1,11 @@
+{
+  "recommendations": [
+    "jcbuisson.vue",
+    "formulahendry.auto-close-tag",
+    "formulahendry.auto-rename-tag",
+    "hookyqr.beautify",
+    "xabikos.javascriptsnippets",
+    "esbenp.prettier-vscode",
+    "syler.sass-indented"
+  ]
+}
