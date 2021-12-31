@@ -31,7 +31,7 @@ export default Vue.extend({
     }
   },
   mounted() {
-    this.createUrl = "https://twitter.com/intent/tweet?text=なとさんから，2022年元旦のご挨拶（年賀状）&url=" + encodeURIComponent(window.location.href + "share?="+ this.message)
+    this.createUrl = "https://twitter.com/intent/tweet?text=なとさんから，2022年元旦のご挨拶（年賀状）&url=" + encodeURIComponent(window.location.href)
   },
   methods: {
     messageData(message: "") {
